@@ -1,7 +1,7 @@
 {
-  "name": "template-node-jsdoc-package",
+  "name": "@dependahub/query-builder",
   "version": "1.0.0",
-  "description": "javascript and JSDoc package Template Repository",
+  "description": "Simplified query builder",
   "author": "DependaHub",
   "license": "MIT",
   "main": "src/index.js",
