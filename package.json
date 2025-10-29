@@ -16,6 +16,20 @@
     "ava": "^6.2.0",
     "xo": "^0.60.0"
   },
+  "homepage": "https://github.com/dependahub/query-builder#readme",
+  "bugs": {
+    "url": "https://github.com/dependahub/query-builder/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dependahub/query-builder.git"
+  },
+  "keywords": [
+    "sql",
+    "query",
+    "builder",
+    "database"
+  ],
   "xo": {
     "ignores": [
       "@types"
